@@ -1,0 +1,21 @@
+# Template file for 'sunshine'
+pkgname=sunshine
+version=0.23.1
+revision=1
+#archs="i686 x86_64"
+#build_wrksrc=
+build_style=cmake
+#configure_args=""
+#make_build_args=""
+#make_install_args=""
+#conf_files=""
+#make_dirs="/var/log/dir 0755 root root"
+hostmakedepends=""
+makedepends=""
+depends=""
+short_desc=""
+maintainer="Tor Morten Finnesand <tmfinnesand@gmail.com>"
+license="GPL-3.0-or-later"
+homepage="https://app.lizardbyte.dev/Sunshine/"
+distfiles=""
+checksum=badbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadbadb
